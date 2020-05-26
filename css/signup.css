@@ -1,0 +1,44 @@
+#line-break{
+  width:100%;
+  border-bottom: 1px solid black;
+}
+#tit{
+  margin-left: 50%;
+}
+h4{
+  margin-left: 40%;
+}
+
+input,#gender{
+  padding: 10px 15px;
+  border:1px solid black;
+  text-align: left;
+  font-family: cursive;
+  font-size: 16px;
+  padding-right: 0;
+  width:20%;
+  margin-left: 140px;
+}
+h3{
+  width:20%;
+  margin-left: 225px;
+ 
+}
+.content{
+  display:relative;
+}
+
+input[type="submit"]{
+  clear: left;
+  margin-top: 10px;
+  text-align: center;
+  background-color: red;
+  padding:4px 5px;
+  border-radius: 25px;
+  border:5px solid red;
+  outline:none;
+  margin-left: 150px;
+}
+#u{
+  margin-left: 187px;
+}

@@ -1,0 +1,44 @@
+<style type="text/css">
+p{
+	color: white;
+	font-size: 30px;
+
+}
+.forgot{
+	width: 420px;
+	height: 420px;
+	background-color:none;
+	top: 60%;
+	left:20%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+}
+input[type="text"]{
+	border: none;
+	border-bottom: 1px solid white;
+	outline: none;
+    background-color: transparent;
+	width:300px;
+	color: white;
+	margin-bottom: 25px;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+input[type="submit"]{
+	left:30%;
+	margin-left: 100px;
+	width: 100px;
+	text-align: center;
+	padding: 5px 10px;
+	font-size: 20px;
+	border-radius: 115px;
+	outline: none;
+}
+button:hover{
+	color:blue;
+}
+a{
+	text-decoration: none;
+}
+</style>

@@ -1,0 +1,51 @@
+
+#vertical{
+  width:75%;
+  transform: rotate(90deg);
+  margin-left: -230px;
+}
+#horizontal{
+  margin-top:80px;
+}
+#logout{
+float:right;
+margin-top:10px;
+padding:5px 10px;
+border-radius: 5px;
+outline: none;
+background-color: #1da1f2;
+border:solid #1da1f2;
+color:#fff;
+font-size: medium;
+cursor: pointer;
+}
+#logout:hover{
+  background-color: #1584c7;
+  border:solid #1584c7;
+
+}
+#titel{
+  margin-left: 31%;
+  font-size: 30px;
+  font-family: cursive;
+  margin-top: 5px;
+}
+#logo{
+  margin-bottom: -88px;
+  margin-left:-10px;
+}
+  img.add-f,img.add-m,img.add-c,img.add-w{
+width:58px;
+height:58px;
+margin-left:90px;
+cursor:pointer;
+}
+.t1-f,.t1-m,.t1-c,.t1-w{
+  margin-left:95px;
+}
+.t2-f,.t2-m,.t2-c,.t2-w{
+  margin-left:75px;
+}
+input [type="radio"]{
+  cursor:pointer;
+}

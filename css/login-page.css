@@ -1,0 +1,97 @@
+<style type="text/css">
+
+#signin{
+	left:50%;
+	
+	margin-left: 98px;
+}
+.one{
+	width: 320px;
+	height: 420px;
+	background-color:none;
+	top: 40%;
+	left:20%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+}
+
+p{
+	color:black;
+	font-size:25px;
+	font-family: sans-serif;
+	
+}
+input{
+	margin-left: -10px;
+	padding: 8px;
+	width:120%;
+}
+.two{
+	color:black;
+	font-size:25px;
+	font-family: sans-serif;
+	
+}
+input[type="text"],input[type="Password"]
+{
+	border:none;
+	border-bottom: 1px solid black;
+	background:transparent;
+	color:black;
+	outline:none;
+	font-size: 16px;
+}
+input[type="submit"]{
+	margin-top: 15px;
+	font-size: 16px;
+	color: black;
+}
+input[type="submit"]:hover{
+	color:blue;
+}
+#minus{
+	margin-left: 135px;
+	margin-top: -2px;
+}
+.m1{
+	font-size: 16px;
+	color: black;
+	float:left;
+	margin-top: 15px;
+}
+
+.m2{
+	font-size: 16px;
+	color: black;
+	float:right;
+	margin-top: 15px;
+	margin-right:-30px;
+}
+a:hover{
+	color:Deepskyblue;
+}
+#view{
+	float:left;
+	margin-top: -40px;
+	margin-left: -150px;
+	float:right;
+	margin-right: -54px;
+	height:25px;
+	width:25px;
+	cursor: pointer;
+}
+input[type="checkbox"]:hover{
+visibility: visible;
+cursor: pointer;
+}
+.effect{
+	background-color: black;
+	padding:5px;
+	border-radius:0 7px 7px 21px;
+	margin-top: 6px;
+	display: -webkit-inline-box;
+	text-align: center;
+}
+
+</style>
